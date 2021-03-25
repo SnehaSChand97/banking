@@ -1,9 +1,9 @@
 h1{
-    color:red;
+    color:blue;
     text-align:center;
 }
 h3{
-    color:blue;
+    color:red;
     text-align:center;
 }
 div
@@ -11,4 +11,10 @@ div
     text-align : right;
 
 
+}
+form{
+    text-align : center; 
+}
+img{
+    align: top;
 }
